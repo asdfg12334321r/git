@@ -1,0 +1,1 @@
+const p=this;const e=p.document;const t=e.querySelector("#title");const n=e.querySelector("p");t.textContent="Hello, World!";n.textContent="This is a simple HTML document.";
